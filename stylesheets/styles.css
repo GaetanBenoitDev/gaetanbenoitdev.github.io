@@ -285,7 +285,6 @@ footer {
 }
 
 li:id3 {
-list-style-image: url('images/icon_twitter.png');
-background-size: 20px;
+list-style-image: url("../images/icon_twitter.png");
 }
     
