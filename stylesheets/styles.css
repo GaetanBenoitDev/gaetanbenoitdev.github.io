@@ -271,11 +271,13 @@ footer {
 
 
 .greeting h1 {
+  font-weight: 500;
   font-size: 28px;
   margin: 0
 }
 
 .greeting h2 {
+  font-weight: 500;
   font-size: 20px;
   color:#AAAAAA;
   font-style:italic;
