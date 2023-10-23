@@ -11,6 +11,18 @@ h1, h2, h3, h4, h5, h6 {
   margin:0 0 20px;
 }
 
+.greeting h1 {
+  margin:0px;
+  font-size:28px;
+  font-weight: 500;
+}
+.greeting h2 {
+  margin:0px;
+  color:#393939;
+  font-size:20px;
+  font-weight: 500;
+}
+
 p, ul, ol, table, pre, dl {
   margin:0 0 20px;
 }
