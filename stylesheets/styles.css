@@ -277,7 +277,8 @@ footer {
 }
 
 .greeting h2 {
+  font-style:italic;
   font-weight: lighter;
-  font-size: 18px;
+  font-size: 16px;
   margin: 0
 }
