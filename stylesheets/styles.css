@@ -284,15 +284,8 @@ footer {
   margin-bottom: 10px
 }
 
-li:id1 {
-list-style-image: url('images/icon_twitter.png');
-}
-
-li:id2 {
-list-style-image: url('images/icon_twitter.png');
-}
-
 li:id3 {
 list-style-image: url('images/icon_twitter.png');
+background-size: 20px;
 }
     
